@@ -1,2 +1,0 @@
-# utschessclub
-UTS Chess Club
